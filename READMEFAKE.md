@@ -1,1 +1,0 @@
-# CAP-STONE-DO-REG-MI
