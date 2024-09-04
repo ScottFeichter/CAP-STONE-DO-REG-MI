@@ -145,7 +145,7 @@ router.get("/:employeeId", async (req, res, next) => {
     ],
   });
 
-  console.log('EMPLOYEE================================', employee)
+  // console.log('EMPLOYEE================================', employee)
 
   if (!employee) {
     const err = new Error("Employee couldn't be found.");
